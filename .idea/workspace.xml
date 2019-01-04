@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="123360de-afa9-4c0d-abec-ea837976ed93" name="Default Changelist" comment="" />
+    <list default="true" id="123360de-afa9-4c0d-abec-ea837976ed93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/EBAY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/screenshots/testsearchPhone (01.03.2019-21:29PM).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/screenshots/testsearchPhone (01.03.2019-21:30PM).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/homePage/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/test/java/testHomePage/TestMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/test/resources/runner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/EBAY-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/classes/homePage/MainPage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/classes/homePage/MainPage$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/classes/homePage/MainPage$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/classes/homePage/MainPage$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/classes/homePage/MainPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/test-classes/runner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testHomePage/TestMainPage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testHomePage/TestMainPage$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testHomePage/TestMainPage$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testHomePage/TestMainPage$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testHomePage/TestMainPage$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testHomePage/TestMainPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/classes/base/BaseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/classes/reporting/ApplicationLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentTestManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/classes/reporting/TestLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RafiWebAutomitionFrameWork2019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -80,6 +128,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -125,6 +176,7 @@
     <option name="width" value="955" />
     <option name="height" value="812" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -248,7 +300,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546569273695" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546569725923" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
